@@ -1,5 +1,5 @@
 // Kevin Wilhoit
-// 
+// Calculates the mean of the movie ratings
 // 
 package prog1;
 import java.io.BufferedReader;
